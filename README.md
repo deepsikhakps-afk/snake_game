@@ -114,4 +114,4 @@ This project demonstrates:
 
 **Deepsikha Singh**
 
-If you found this project useful, don't forget to ⭐ the repository on
+If you found this project useful, don't forget to ⭐ the repository on GitHub!
